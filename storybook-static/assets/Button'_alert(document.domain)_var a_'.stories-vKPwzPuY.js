@@ -1,0 +1,1 @@
+import{B as o}from"./Button-D5EDIIeH.js";import"./jsx-runtime-u17CrQMm.js";alert(document.domain);const a={component:o},e={};e.parameters={...e.parameters,docs:{...e.parameters?.docs,source:{originalSource:"{}",...e.parameters?.docs?.source}}};const s=["Default"];export{e as Default,s as __namedExportsOrder,a as default};
